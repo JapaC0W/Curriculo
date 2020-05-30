@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(116, 224, 238);
+   
+    background-image:url('dado3.jpg');
+
+    background-size: cover;
+
+    font-size:18pt;
+ 
+    color: snow;
+
+    text-shadow: 2px 2px black;
+
+}
+
+.img-thumbnail{
+    max-width:10%;
+    height:auto;
+}
+
+.mt-0 {
+    margin-top: 0 !important;
+  }
+  
+     
